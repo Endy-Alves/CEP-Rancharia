@@ -59,6 +59,7 @@ h1{
 }
 .logradouro{
     display: flex;
+    flex-wrap: wrap;
 }
 .logradouro div{
     margin-left: 10px;
