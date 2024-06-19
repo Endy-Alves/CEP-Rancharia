@@ -1,0 +1,618 @@
+{
+    "Rancharia": {
+      "Centro": [
+        {
+          "logradouro": "Rua Doutor Júlio Lucant",
+          "cep": "19600-001"
+        },
+        {
+          "logradouro": "Rua Monte Castelo",
+          "cep": "19600-003"
+        },
+        {
+          "logradouro": "Rua Doutor Adhemar de Barros",
+          "cep": "19600-005"
+        },
+        {
+          "logradouro": "Rua Expedicionário Brasileiros",
+          "cep": "19600-007"
+        },
+        {
+          "logradouro": "Avenida Pedro de Toledo",
+          "cep": "19600-009"
+        },
+        {
+          "logradouro": "Rua Dona Rosa Miguel",
+          "cep": "19600-011"
+        },
+        {
+          "logradouro": "Rua Padre Paulo",
+          "cep": "19600-013"
+        },
+        {
+          "logradouro": "Rua Coronel Galdino Alfredo de Almeida",
+          "cep": "19600-015"
+        },
+        {
+          "logradouro": "Rua Duque de Caxias",
+          "cep": "19600-017"
+        },
+        {
+          "logradouro": "Rua Diamantino Neto",
+          "cep": "19600-019"
+        },
+        {
+          "logradouro": "Rua Maria Quitéria",
+          "cep": "19600-021"
+        },
+        {
+          "logradouro": "Rua Alan Kardec",
+          "cep": "19600-023"
+        },
+        {
+          "logradouro": "Rua Mário César de Camargo",
+          "cep": "19600-025"
+        },
+        {
+          "logradouro": "Rua Henrique Dias",
+          "cep": "19600-027"
+        },
+        {
+          "logradouro": "Avenida Dom Pedro II",
+          "cep": "19600-029"
+        },
+        {
+          "logradouro": "Praça da Matriz",
+          "cep": "19600-031"
+        },
+        {
+          "logradouro": "Rua Felipe Camarão",
+          "cep": "19600-033"
+        },
+        {
+          "logradouro": "Rua Marcílio Dias",
+          "cep": "19600-035"
+        },
+        {
+          "logradouro": "Rua Vereador Manoel Tenório de Brito",
+          "cep": "19600-037"
+        }
+      ],
+      "Vila Martins": [
+        {
+          "logradouro": "Rua Vereador Manoel Tenório de Brito",
+          "cep": "19600-040"
+        },
+        {
+          "logradouro": "Rua Araújo",
+          "cep": "19600-042"
+        },
+        {
+          "logradouro": "Rua Tiradentes",
+          "cep": "19600-044"
+        },
+        {
+          "logradouro": "Rua Dona Laura",
+          "cep": "19600-046"
+        },
+        {
+          "logradouro": "Rua Clarinho",
+          "cep": "19600-048"
+        },
+        {
+          "logradouro": "Avenida Pedro de Toledo",
+          "cep": "19600-050"
+        },
+        {
+          "logradouro": "Rua Dona Rosa Miguel",
+          "cep": "19600-052"
+        },
+        {
+          "logradouro": "Rua Padre Paulo",
+          "cep": "19600-054"
+        },
+        {
+          "logradouro": "Rua Coronel Galdino Alfredo de Almeida",
+          "cep": "19600-056"
+        },
+        {
+          "logradouro": "Rua Duque de Caxias",
+          "cep": "19600-058"
+        },
+        {
+          "logradouro": "Rua Diamantino Neto",
+          "cep": "19600-060"
+        }
+      ],
+      "Estação": [
+        {
+          "logradouro": "Rua Maria Quitéria",
+          "cep": "19600-070"
+        },
+        {
+          "logradouro": "Rua Riachuelo",
+          "cep": "19600-072"
+        },
+        {
+          "logradouro": "Rua Josefina Molina Alves",
+          "cep": "19600-074"
+        },
+        {
+          "logradouro": "Rua Conde D'eu",
+          "cep": "19600-076"
+        },
+        {
+          "logradouro": "Rua Príncipe Pedro",
+          "cep": "19600-078"
+        },
+        {
+          "logradouro": "Rua Príncipe Luiz",
+          "cep": "19600-080"
+        },
+        {
+          "logradouro": "Rua Príncipe Antônio",
+          "cep": "19600-082"
+        },
+        {
+          "logradouro": "Rua Otaviano Heráclio Duarte",
+          "cep": "19600-084"
+        },
+        {
+          "logradouro": "Rua Conselheiro Antônio Prado",
+          "cep": "19600-086"
+        },
+        {
+          "logradouro": "Avenida Presidente Vargas",
+          "cep": "19600-088"
+        },
+        {
+          "logradouro": "Rua Princesa Isabel",
+          "cep": "19600-090"
+        },
+        {
+          "logradouro": "Avenida Dom Pedro II",
+          "cep": "19600-092"
+        },
+        {
+          "logradouro": "Rua Henrique Dias",
+          "cep": "19600-094"
+        },
+        {
+          "logradouro": "Rua Alan Kardec",
+          "cep": "19600-096"
+        }
+      ],
+      "Vila Yolanda": [
+        {
+          "logradouro": "Rua Alan Kardec",
+          "cep": "19600-100"
+        },
+        {
+          "logradouro": "Rua Joaquim Pedro da Silva",
+          "cep": "19600-102"
+        },
+        {
+          "logradouro": "Rua José Januário da Silva",
+          "cep": "19600-104"
+        },
+        {
+          "logradouro": "Rua Presidente Washington Luiz",
+          "cep": "19600-106"
+        },
+        {
+          "logradouro": "Rua Ari Barroso",
+          "cep": "19600-108"
+        },
+        {
+          "logradouro": "Rua Maria Quitéria",
+          "cep": "19600-110"
+        },
+        {
+          "logradouro": "Rua Diamantino Neto",
+          "cep": "19600-112"
+        },
+        {
+          "logradouro": "Rua Duque de Caxias",
+          "cep": "19600-114"
+        }
+      ],
+      "Vila Rigueti": [
+        {
+          "logradouro": "Rua Duque de Caxias",
+          "cep": "19600-120"
+        },
+        {
+          "logradouro": "Rua Coronel Galdino Alfredo de Almeida",
+          "cep": "19600-122"
+        },
+        {
+          "logradouro": "Rua Padre Paulo",
+          "cep": "19600-124"
+        },
+        {
+          "logradouro": "Rua Dona Rosa Miguel",
+          "cep": "19600-126"
+        },
+        {
+          "logradouro": "Avenida Pedro de Toledo",
+          "cep": "19600-128"
+        },
+        {
+          "logradouro": "Rua Ari Barroso",
+          "cep": "19600-130"
+        },
+        {
+          "logradouro": "Rua Presidente Washington Luiz",
+          "cep": "19600-132"
+        },
+        {
+          "logradouro": "Rua José Januário da Silva",
+          "cep": "19600-134"
+        },
+        {
+          "logradouro": "Rua Joaquim Pedro da Silva",
+          "cep": "19600-136"
+        },
+        {
+          "logradouro": "Rua Alan Kardec",
+          "cep": "19600-138"
+        }
+      ],
+      "Vila Guaçu": [
+        {
+          "logradouro": "Rua Mário César de Camargo",
+          "cep": "19600-140"
+        },
+        {
+          "logradouro": "Rua dos Operários",
+          "cep": "19600-142"
+        },
+        {
+          "logradouro": "Rua São Paulo",
+          "cep": "19600-144"
+        },
+        {
+          "logradouro": "Rua Leôncio Vieira dos Santos",
+          "cep": "19600-146"
+        },
+        {
+          "logradouro": "Rua Ari Barroso",
+          "cep": "19600-148"
+        },
+        {
+          "logradouro": "Rua Doutor Gastão Vidigal",
+          "cep": "19600-150"
+        },
+        {
+          "logradouro": "Rua Sete de Setembro",
+          "cep": "19600-152"
+        },
+        {
+          "logradouro": "Rua Norita Tavares Dorini",
+          "cep": "19600-154"
+        },
+        {
+          "logradouro": "Rua Doutor Júlio Lucant",
+          "cep": "19600-156"
+        },
+        {
+          "logradouro": "Rua Monte Castelo",
+          "cep": "19600-158"
+        },
+        {
+          "logradouro": "Rua Doutor Adhemar de Barros",
+          "cep": "19600-160"
+        },
+        {
+          "logradouro": "Rua Expedicionário Brasileiros",
+          "cep": "19600-162"
+        },
+        {
+          "logradouro": "Avenida Pedro de Toledo",
+          "cep": "19600-164"
+        },
+        {
+          "logradouro": "Rua Dona Rosa Miguel",
+          "cep": "19600-166"
+        },
+        {
+          "logradouro": "Rua Padre Paulo",
+          "cep": "19600-168"
+        }
+      ],
+      "Conjunto Habitacional Padre Max": [
+        {
+          "logradouro": "Avenida José Pereira",
+          "cep": "19600-200"
+        },
+        {
+          "logradouro": "Rua Carmino Di Biási",
+          "cep": "19600-202"
+        },
+        {
+          "logradouro": "Rua Prefeito Alipe Amaral",
+          "cep": "19600-204"
+        },
+        {
+          "logradouro": "Rua Prefeito Amaurah Prado Martins",
+          "cep": "19600-206"
+        },
+        {
+          "logradouro": "Rua Rodolfo Corsi",
+          "cep": "19600-208"
+        },
+        {
+          "logradouro": "Rua Prefeito Manoel Severo Lins",
+          "cep": "19600-210"
+        },
+        {
+          "logradouro": "Rua Francisco Franco",
+          "cep": "19600-212"
+        },
+        {
+          "logradouro": "Rua José Moacir Magnanelli",
+          "cep": "19600-214"
+        }
+      ],
+      "Conjunto Habitacional Planalto": [
+        {
+          "logradouro": "Rua Elpídio Marchiâni",
+          "cep": "19600-220"
+        },
+        {
+          "logradouro": "Rua Padre Alberto Rudolf",
+          "cep": "19600-222"
+        },
+        {
+          "logradouro": "Rua José Zaidel",
+          "cep": "19600-224"
+        },
+        {
+          "logradouro": "Rua Otávio dos Santos",
+          "cep": "19600-226"
+        },
+        {
+          "logradouro": "Avenida José Pereira",
+          "cep": "19600-228"
+        },
+        {
+          "logradouro": "Rua Giácomo Passianoto",
+          "cep": "19600-230"
+        },
+        {
+          "logradouro": "Rua Prefeito Amaurah Prado Martins",
+          "cep": "19600-232"
+        }
+      ],
+      "Distrito Industrial II": [
+        {
+          "logradouro": "Rua Prefeito Amaurah Prado Martins",
+          "cep": "19600-240"
+        },
+        {
+          "logradouro": "Rua Giácomo Passianoto",
+          "cep": "19600-242"
+        },
+        {
+          "logradouro": "Rua Hameleto Amendola",
+          "cep": "19600-244"
+        },
+        {
+          "logradouro": "Avenida José Pereira",
+          "cep": "19600-246"
+        },
+        {
+          "logradouro": "Rua José Boareto",
+          "cep": "19600-248"
+        },
+        {
+          "logradouro": "Rua Dorival Zorzetto",
+          "cep": "19600-250"
+        },
+        {
+          "logradouro": "Rua Arlindo Peruche",
+          "cep": "19600-252"
+        },
+        {
+          "logradouro": "Rua Professor Oswaldo Olmedo",
+          "cep": "19600-254"
+        }
+      ],
+      "Conjunto Habitacional Novo Cruzado": [
+        {
+          "logradouro": "Rua Prefeito Amaurah Prado Martins",
+          "cep": "19600-300"
+        },
+        {
+          "logradouro": "Rua Cassiano José de Almeida",
+          "cep": "19600-302"
+        },
+        {
+          "logradouro": "Rua Conde D'eu",
+          "cep": "19600-304"
+        },
+        {
+          "logradouro": "Rua Guido Visnadi",
+          "cep": "19600-306"
+        },
+        {
+          "logradouro": "Rua Braz Martins dos Santos",
+          "cep": "19600-308"
+        },
+        {
+          "logradouro": "Rua José Maria Sanches Contreiras",
+          "cep": "19600-310"
+        },
+        {
+          "logradouro": "Rua José Maria Sanches Contreiras",
+          "cep": "19600-320"
+        }
+      ],
+      "Residencial Trebesquim": [
+        {
+          "logradouro": "Rua Euclides João de Souza",
+          "cep": "19600-322"
+        },
+        {
+          "logradouro": "Rua José Ciambélli",
+          "cep": "19600-324"
+        },
+        {
+          "logradouro": "Rua Gilseu Banuth de Freitas",
+          "cep": "19600-326"
+        },
+        {
+          "logradouro": "Rua Conde D'eu",
+          "cep": "19600-328"
+        }
+      ],
+      "Jardim Real": [
+        {
+          "logradouro": "Rua Honória Borges Flávio",
+          "cep": "19600-330"
+        },
+        {
+          "logradouro": "Rua José Maria Sanches Contreiras",
+          "cep": "19600-332"
+        },
+        {
+          "logradouro": "Rua Braz Martins dos Santos",
+          "cep": "19600-334"
+        },
+        {
+          "logradouro": "Rua Guido Visnadi",
+          "cep": "19600-336"
+        },
+        {
+          "logradouro": "Rua Reynaldo Samogim",
+          "cep": "19600-338"
+        },
+        {
+          "logradouro": "Rua Paulino Acorsi",
+          "cep": "19600-340"
+        },
+        {
+          "logradouro": "Rua José Francisco Matheus",
+          "cep": "19600-342"
+        },
+        {
+          "logradouro": "Rua Horácio Marani",
+          "cep": "19600-344"
+        }
+      ],
+      "Conjunto Habitacional Doutor Ney Marques Gome": [
+        {
+          "logradouro": "Rua Conde D'eu",
+          "cep": "19600-400"
+        },
+        {
+          "logradouro": "Rua Júlio Paulo da Silva",
+          "cep": "19600-402"
+        },
+        {
+          "logradouro": "Rua Valdomiro Gabriel",
+          "cep": "19600-404"
+        },
+        {
+          "logradouro": "Rua João Rasera",
+          "cep": "19600-406"
+        },
+        {
+          "logradouro": "Rua Príncipe Luiz",
+          "cep": "19600-408"
+        },
+        {
+          "logradouro": "Rua Ari Barroso",
+          "cep": "19600-410"
+        }
+      ],
+      "Vila Nova": [
+        {
+          "logradouro": "Rua Ari Barroso",
+          "cep": "19600-420"
+        },
+        {
+          "logradouro": "Rua Presidente Washington Luiz",
+          "cep": "19600-422"
+        },
+        {
+          "logradouro": "Rua José Januário da Silva",
+          "cep": "19600-424"
+        },
+        {
+          "logradouro": "Rua Joaquim Pedro da Silva",
+          "cep": "19600-426"
+        },
+        {
+          "logradouro": "Rua Conselheiro Antônio Prado",
+          "cep": "19600-428"
+        },
+        {
+          "logradouro": "Rua Alan Kardec",
+          "cep": "19600-430"
+        },
+        {
+          "logradouro": "Rua Maria Quitéria",
+          "cep": "19600-432"
+        },
+        {
+          "logradouro": "Rua Conde D'eu",
+          "cep": "19600-434"
+        },
+        {
+          "logradouro": "Rua Príncipe Pedro",
+          "cep": "19600-436"
+        },
+        {
+          "logradouro": "Rua Príncipe Luiz",
+          "cep": "19600-438"
+        },
+        {
+          "logradouro": "Rua Príncipe Antônio",
+          "cep": "19600-440"
+        },
+        {
+          "logradouro": "Rua Otaviano Heráclio Duarte",
+          "cep": "19600-442"
+        }
+      ],
+      "Vila Teresa": [
+        {
+          "logradouro": "Rua Otaviano Heráclio Duarte",
+          "cep": "19600-450"
+        },
+        {
+          "logradouro": "Rua Amparo",
+          "cep": "19600-452"
+        },
+        {
+          "logradouro": "Rua Ari Barroso",
+          "cep": "19600-454"
+        },
+        {
+          "logradouro": "Rua Presidente Washington Luiz",
+          "cep": "19600-456"
+        },
+        {
+          "logradouro": "Rua José Januário da Silva",
+          "cep": "19600-458"
+        },
+        {
+          "logradouro": "Rua Joaquim Pedro da Silva",
+          "cep": "19600-460"
+        },
+        {
+          "logradouro": "Rua Quatá",
+          "cep": "19600-462"
+        },
+        {
+          "logradouro": "Avenida Presidente Vargas",
+          "cep": "19600-464"
+        },
+        {
+          "logradouro": "Rua da Serraria",
+          "cep": "19600-466"
+        }
+      ]
+    }
+  }

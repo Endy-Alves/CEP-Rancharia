@@ -1,0 +1,78 @@
+body, html{
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+
+}
+input{
+    width: 15em;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+}
+main .logradouro{
+    border-left: 5px solid #2dd586;
+    border-radius: 13px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    border-bottom: 1px solid #2dd586;
+}
+main div p{
+    margin-left: 5px;
+}
+header{
+    background-color: #ebebeb;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    padding: 20px;
+    background-color: white;
+    width: 8em;
+    border-radius: 60px;
+    border-left: 8px solid #2dd586;
+}
+.pesquisa{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    align-items: baseline;
+}
+.pesquisa label{
+    margin-right: 10px;
+    font-size: 20px;
+
+}
+.pesquisa input{
+    border-style: none;
+    border-bottom: 1px solid #2dd586;
+    font-size: 20px;
+
+}
+.pesquisa input:focus{
+    outline: none;
+    border-style: none;
+    border-bottom: 2px solid #2dd586;
+}
+.logradouro{
+    display: flex;
+}
+.logradouro div{
+    margin-left: 10px;
+    padding: 10px;
+}
+@media (max-width: 900px){
+    .logradouro div{
+        font-size: 13px;
+        margin-left: 0;
+    }
+    .pesquisa label{
+        font-size: 15px;
+    }
+    .pesquisa input{
+        font-size: 15px;
+    }
+}
