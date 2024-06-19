@@ -1,0 +1,3127 @@
+[
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Júlio Lucant",
+        "numero": "19600-001",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Monte Castelo",
+        "numero": "19600-003",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Adhemar de Barros",
+        "numero": "19600-005",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Expedicionário Brasileiros",
+        "numero": "19600-007",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro de Toledo",
+        "numero": "19600-009",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dona Rosa Miguel",
+        "numero": "19600-011",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Padre Paulo",
+        "numero": "19600-013",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Coronel Galdino Alfredo de Almeida",
+        "numero": "19600-015",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Duque de Caxias",
+        "numero": "19600-017",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Diamantino Neto",
+        "numero": "19600-019",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Quitéria",
+        "numero": "19600-021",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alan Kardec",
+        "numero": "19600-023",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mário César de Camargo",
+        "numero": "19600-025",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Henrique Dias",
+        "numero": "19600-027",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19600-029",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Praça da Matriz",
+        "numero": "19600-031",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Felipe Camarão",
+        "numero": "19600-033",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Marcílio Dias",
+        "numero": "19600-035",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Vereador Manoel Tenório de Brito",
+        "numero": "19600-037",
+        "bairro": "Centro"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Vereador Manoel Tenório de Brito",
+        "numero": "19600-040",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Araújo",
+        "numero": "19600-042",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Tiradentes",
+        "numero": "19600-044",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dona Laura",
+        "numero": "19600-046",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Clarinho",
+        "numero": "19600-048",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro de Toledo",
+        "numero": "19600-050",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dona Rosa Miguel",
+        "numero": "19600-052",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Padre Paulo",
+        "numero": "19600-054",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Coronel Galdino Alfredo de Almeida",
+        "numero": "19600-056",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Duque de Caxias",
+        "numero": "19600-058",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Diamantino Neto",
+        "numero": "19600-060",
+        "bairro": "Vila Martins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Quitéria",
+        "numero": "19600-070",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Riachuelo",
+        "numero": "19600-072",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Josefina Molina Alves",
+        "numero": "19600-074",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde D'eu",
+        "numero": "19600-076",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Pedro",
+        "numero": "19600-078",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Luiz",
+        "numero": "19600-080",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Antônio",
+        "numero": "19600-082",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otaviano Heráclio Duarte",
+        "numero": "19600-084",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conselheiro Antônio Prado",
+        "numero": "19600-086",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Presidente Vargas",
+        "numero": "19600-088",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Princesa Isabel",
+        "numero": "19600-090",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19600-092",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Henrique Dias",
+        "numero": "19600-094",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alan Kardec",
+        "numero": "19600-096",
+        "bairro": "Estação"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alan Kardec",
+        "numero": "19600-100",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedro da Silva",
+        "numero": "19600-102",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Januário da Silva",
+        "numero": "19600-104",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Presidente Washington Luiz",
+        "numero": "19600-106",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-108",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Quitéria",
+        "numero": "19600-110",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Diamantino Neto",
+        "numero": "19600-112",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Duque de Caxias",
+        "numero": "19600-114",
+        "bairro": "Vila Yolanda"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Duque de Caxias",
+        "numero": "19600-120",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Coronel Galdino Alfredo de Almeida",
+        "numero": "19600-122",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Padre Paulo",
+        "numero": "19600-124",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dona Rosa Miguel",
+        "numero": "19600-126",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro de Toledo",
+        "numero": "19600-128",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-130",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Presidente Washington Luiz",
+        "numero": "19600-132",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Januário da Silva",
+        "numero": "19600-134",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedro da Silva",
+        "numero": "19600-136",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alan Kardec",
+        "numero": "19600-138",
+        "bairro": "Vila Rigueti"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mário César de Camargo",
+        "numero": "19600-140",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Operários",
+        "numero": "19600-142",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua São Paulo",
+        "numero": "19600-144",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Leôncio Vieira dos Santos",
+        "numero": "19600-146",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-148",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Gastão Vidigal",
+        "numero": "19600-150",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Sete de Setembro",
+        "numero": "19600-152",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Norita Tavares Dorini",
+        "numero": "19600-154",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Júlio Lucant",
+        "numero": "19600-156",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Monte Castelo",
+        "numero": "19600-158",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Adhemar de Barros",
+        "numero": "19600-160",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Expedicionário Brasileiros",
+        "numero": "19600-162",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro de Toledo",
+        "numero": "19600-164",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dona Rosa Miguel",
+        "numero": "19600-166",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Padre Paulo",
+        "numero": "19600-168",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida José Pereira",
+        "numero": "19600-200",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Carmino Di Biási",
+        "numero": "19600-202",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prefeito Alipe Amaral",
+        "numero": "19600-204",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prefeito Amaurah Prado Martins",
+        "numero": "19600-206",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Rodolfo Corsi",
+        "numero": "19600-208",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prefeito Manoel Severo Lins",
+        "numero": "19600-210",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Franco",
+        "numero": "19600-212",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Moacir Magnanelli",
+        "numero": "19600-214",
+        "bairro": "Conjunto Habitacional Padre Max"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Elpídio Marchiâni",
+        "numero": "19600-220",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Padre Alberto Rudolf",
+        "numero": "19600-222",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Zaidel",
+        "numero": "19600-224",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otávio dos Santos",
+        "numero": "19600-226",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida José Pereira",
+        "numero": "19600-228",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Giácomo Passianoto",
+        "numero": "19600-230",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prefeito Amaurah Prado Martins",
+        "numero": "19600-232",
+        "bairro": "Conjunto Habitacional Planalto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prefeito Amaurah Prado Martins",
+        "numero": "19600-240",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Giácomo Passianoto",
+        "numero": "19600-242",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Hameleto Amendola",
+        "numero": "19600-244",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida José Pereira",
+        "numero": "19600-246",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Boareto",
+        "numero": "19600-248",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dorival Zorzetto",
+        "numero": "19600-250",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Arlindo Peruche",
+        "numero": "19600-252",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Professor Oswaldo Olmedo",
+        "numero": "19600-254",
+        "bairro": "Distrito Industrial II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prefeito Amaurah Prado Martins",
+        "numero": "19600-300",
+        "bairro": "Conjunto Habitacional Novo Cruzado"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Cassiano José de Almeida",
+        "numero": "19600-302",
+        "bairro": "Conjunto Habitacional Novo Cruzado"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde D'eu",
+        "numero": "19600-304",
+        "bairro": "Conjunto Habitacional Novo Cruzado"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Guido Visnadi",
+        "numero": "19600-306",
+        "bairro": "Conjunto Habitacional Novo Cruzado"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Braz Martins dos Santos",
+        "numero": "19600-308",
+        "bairro": "Conjunto Habitacional Novo Cruzado"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Maria Sanches Contreiras",
+        "numero": "19600-310",
+        "bairro": "Conjunto Habitacional Novo Cruzado"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Maria Sanches Contreiras",
+        "numero": "19600-320",
+        "bairro": "Residencial Trebesquim"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Euclides João de Souza",
+        "numero": "19600-322",
+        "bairro": "Residencial Trebesquim"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Ciambélli",
+        "numero": "19600-324",
+        "bairro": "Residencial Trebesquim"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Gilseu Banuth de Freitas",
+        "numero": "19600-326",
+        "bairro": "Residencial Trebesquim"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde D'eu",
+        "numero": "19600-328",
+        "bairro": "Residencial Trebesquim"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Honória Borges Flávio",
+        "numero": "19600-330",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Maria Sanches Contreiras",
+        "numero": "19600-332",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Braz Martins dos Santos",
+        "numero": "19600-334",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Guido Visnadi",
+        "numero": "19600-336",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Reynaldo Samogim",
+        "numero": "19600-338",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paulino Acorsi",
+        "numero": "19600-340",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Francisco Matheus",
+        "numero": "19600-342",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Horácio Marani",
+        "numero": "19600-344",
+        "bairro": "Jardim Real"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde D'eu",
+        "numero": "19600-400",
+        "bairro": "Conjunto Habitacional Doutor Ney Marques Gomes"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Júlio Paulo da Silva",
+        "numero": "19600-402",
+        "bairro": "Conjunto Habitacional Doutor Ney Marques Gomes"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Valdomiro Gabriel",
+        "numero": "19600-404",
+        "bairro": "Conjunto Habitacional Doutor Ney Marques Gomes"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Rasera",
+        "numero": "19600-406",
+        "bairro": "Conjunto Habitacional Doutor Ney Marques Gomes"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Luiz",
+        "numero": "19600-408",
+        "bairro": "Conjunto Habitacional Doutor Ney Marques Gomes"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-410",
+        "bairro": "Conjunto Habitacional Doutor Ney Marques Gomes"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-420",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Presidente Washington Luiz",
+        "numero": "19600-422",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Januário da Silva",
+        "numero": "19600-424",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedro da Silva",
+        "numero": "19600-426",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conselheiro Antônio Prado",
+        "numero": "19600-428",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alan Kardec",
+        "numero": "19600-430",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Quitéria",
+        "numero": "19600-432",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde D'eu",
+        "numero": "19600-434",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Pedro",
+        "numero": "19600-436",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Luiz",
+        "numero": "19600-438",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Príncipe Antônio",
+        "numero": "19600-440",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otaviano Heráclio Duarte",
+        "numero": "19600-442",
+        "bairro": "Vila Nova"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otaviano Heráclio Duarte",
+        "numero": "19600-450",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Amparo",
+        "numero": "19600-452",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-454",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Presidente Washington Luiz",
+        "numero": "19600-456",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Januário da Silva",
+        "numero": "19600-458",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedro da Silva",
+        "numero": "19600-460",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Quatá",
+        "numero": "19600-462",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Presidente Vargas",
+        "numero": "19600-464",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua da Serraria",
+        "numero": "19600-466",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Socorro",
+        "numero": "19600-468",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Valentim Máximo de Souza",
+        "numero": "19600-470",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Serra Negra",
+        "numero": "19600-472",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Itapira",
+        "numero": "19600-474",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Margonar Bacarin",
+        "numero": "19600-476",
+        "bairro": "Vila Teresa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Margonar Bacarin",
+        "numero": "19600-480",
+        "bairro": "Conjunto Habitacional Prefeito Yoshio Moriya"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Martins Pereira",
+        "numero": "19600-482",
+        "bairro": "Conjunto Habitacional Prefeito Yoshio Moriya"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Hermes Duarte DArce",
+        "numero": "19600-484",
+        "bairro": "Conjunto Habitacional Prefeito Yoshio Moriya"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Itapira",
+        "numero": "19600-486",
+        "bairro": "Conjunto Habitacional Prefeito Yoshio Moriya"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Valentim Máximo de Souza",
+        "numero": "19600-488",
+        "bairro": "Conjunto Habitacional Prefeito Yoshio Moriya"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Severino Raimundo dos Santos",
+        "numero": "19600-490",
+        "bairro": "Conjunto Habitacional Prefeito Yoshio Moriya"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Severino Raimundo dos Santos",
+        "numero": "19600-500",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Hermes Duarte DArce",
+        "numero": "19600-502",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Franco da Silva",
+        "numero": "19600-504",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Itapira",
+        "numero": "19600-506",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Margonar Bacarin",
+        "numero": "19600-508",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Benedito Pereira",
+        "numero": "19600-510",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Júlio Budiski",
+        "numero": "19600-512",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria da Silva Lima",
+        "numero": "19600-514",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Fernando Augusto Sobrinho",
+        "numero": "19600-516",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Ferreira Franco",
+        "numero": "19600-518",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Pedro Liberatti",
+        "numero": "19600-520",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Siegfried Boos",
+        "numero": "19600-522",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Neves Linares",
+        "numero": "19600-524",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Olímpio Ferreira da Silva",
+        "numero": "19600-526",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Clóvis Pereira de Lima",
+        "numero": "19600-528",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Wally Ferreira Martins",
+        "numero": "19600-530",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ademir Alves",
+        "numero": "19600-532",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Florindo Contini",
+        "numero": "19600-534",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Basílio Kulics",
+        "numero": "19600-536",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Benedito Jorge Patrão",
+        "numero": "19600-538",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Amparo",
+        "numero": "19600-540",
+        "bairro": "Conjunto Habitacional Ruy Charles"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Amparo",
+        "numero": "19600-550",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Eliziano Roberto da Silva",
+        "numero": "19600-552",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Silvério Grillo",
+        "numero": "19600-554",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Slobodticov",
+        "numero": "19600-556",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Eugênio da silva",
+        "numero": "19600-558",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Pereira Dutra",
+        "numero": "19600-560",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ari Barroso",
+        "numero": "19600-562",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Osvaldo Flauzino",
+        "numero": "19600-564",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Zenóbia Muricy Figueiredo",
+        "numero": "19600-566",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Pedro Baldo",
+        "numero": "19600-568",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Vicente Vieira de Souza",
+        "numero": "19600-570",
+        "bairro": "Jardim América"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Adelson Pereira Dutra",
+        "numero": "19600-700",
+        "bairro": "Residencial Elizia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 1",
+        "numero": "19600-702",
+        "bairro": "Residencial Elizia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 2",
+        "numero": "19600-704",
+        "bairro": "Residencial Elizia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 3",
+        "numero": "19600-706",
+        "bairro": "Residencial Elizia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 4",
+        "numero": "19600-708",
+        "bairro": "Residencial Elizia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Severino Raimundo dos Santos",
+        "numero": "19600-750",
+        "bairro": "Vila das Flores"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 1",
+        "numero": "19600-752",
+        "bairro": "Vila das Flores"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 2",
+        "numero": "19600-754",
+        "bairro": "Vila das Flores"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua 3",
+        "numero": "19600-756",
+        "bairro": "Vila das Flores"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Severino Raimundo dos Santos",
+        "numero": "19600-760",
+        "bairro": "Chácaras"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Quatá",
+        "numero": "19600-762",
+        "bairro": "Chácaras"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua da Serraria",
+        "numero": "19600-764",
+        "bairro": "Chácaras"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua das Chácaras",
+        "numero": "19600-766",
+        "bairro": "Chácaras"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Severino Raimundo dos Santos",
+        "numero": "19600-770",
+        "bairro": "Vila Luar"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Josefa Sampaio Costa",
+        "numero": "19600-772",
+        "bairro": "Vila Luar"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Júlio Lucant",
+        "numero": "19602-000",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Floriano Peixoto",
+        "numero": "19602-002",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Quintino Bocaiuva",
+        "numero": "19602-004",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Marechal Deodoro da Fonseca",
+        "numero": "19602-006",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ataliba Leonel",
+        "numero": "19602-008",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedroso",
+        "numero": "19602-010",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Rielli Ciambelli",
+        "numero": "19602-012",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Luiz Bacco",
+        "numero": "19602-014",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Marcílio Dias",
+        "numero": "19602-016",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Felipe Camarão",
+        "numero": "19602-018",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19602-020",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Henrique Dias",
+        "numero": "19602-022",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mário César de Camargo",
+        "numero": "19602-024",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Operários",
+        "numero": "19602-026",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Lopes",
+        "numero": "19602-028",
+        "bairro": "Vila Cantizani"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Floriano Peixoto",
+        "numero": "19602-030",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Júlio Lucant",
+        "numero": "19602-032",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Operários",
+        "numero": "19602-034",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Padre João Maistro Filho",
+        "numero": "19602-036",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Álvaro Pereira Castro",
+        "numero": "19602-038",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Belor Fernandes",
+        "numero": "19602-040",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Manuel Batista",
+        "numero": "19602-042",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Leôncio Vieira dos Santos",
+        "numero": "19602-044",
+        "bairro": "Conjunto Habitacional Padre Paulo Carlos Krun"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Possidônio Bernardes da Silva",
+        "numero": "19602-050",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Auta Emina Corsi",
+        "numero": "19602-052",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Miguel Ferreira da Silva",
+        "numero": "19602-054",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ataliba Leonel",
+        "numero": "19602-056",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Júlio Paulo Filho",
+        "numero": "19602-058",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Operários",
+        "numero": "19602-060",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Lopes",
+        "numero": "19602-062",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Nilton Roberto Lopes",
+        "numero": "19602-064",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Stefano Samparras",
+        "numero": "19602-066",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Felício",
+        "numero": "19602-068",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ettore Bassetto",
+        "numero": "19602-070",
+        "bairro": "Residencial São Bernardo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Major Felício Tarabay",
+        "numero": "19602-100",
+        "bairro": "Jardim Regina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Vereadores",
+        "numero": "19602-102",
+        "bairro": "Jardim Regina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Cândido de Freitas",
+        "numero": "19602-104",
+        "bairro": "Jardim Regina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mário César de Camargo",
+        "numero": "19602-106",
+        "bairro": "Jardim Regina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Henrique Dias",
+        "numero": "19602-108",
+        "bairro": "Jardim Regina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19602-110",
+        "bairro": "Jardim Regina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19602-120",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Felipe Camarão",
+        "numero": "19602-122",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Marcílio Dias",
+        "numero": "19602-124",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Governador Lucas Nogueira Garces",
+        "numero": "19602-126",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Praça Francisco Franco",
+        "numero": "19602-128",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Rielli Ciambelli",
+        "numero": "19602-130",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Péricles Rolim",
+        "numero": "19602-132",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedroso",
+        "numero": "19602-134",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Major Felício Tarabay",
+        "numero": "19602-136",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Vereadores",
+        "numero": "19602-138",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Cândido de Freitas",
+        "numero": "19602-140",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Lírio do Prado",
+        "numero": "19602-142",
+        "bairro": "Parque Maria Adelina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Lírio do Prado",
+        "numero": "19602-150",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Professora Jovina Nogueira Fraga",
+        "numero": "19602-152",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José de Souza Moreno",
+        "numero": "19602-154",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Professor João Teixeira",
+        "numero": "19602-156",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mario Benutti",
+        "numero": "19602-158",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Professores",
+        "numero": "19602-160",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Augusto das Flores",
+        "numero": "19602-162",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Arthur Zorzetto",
+        "numero": "19602-164",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor João Batista de Lima Rodrigues",
+        "numero": "19602-166",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Ferreira Penço",
+        "numero": "19602-168",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ana Maria Duran Henrique",
+        "numero": "19602-170",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Adriano Duarte Figueiredo",
+        "numero": "19602-172",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Pedroso",
+        "numero": "19602-174",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Júlio Paixão",
+        "numero": "19602-176",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Hipólito Gonçalves da Silva",
+        "numero": "19602-178",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua dos Comerciários",
+        "numero": "19602-180",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Rielli Ciambelli",
+        "numero": "19602-182",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Severo Lins",
+        "numero": "19602-184",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Virgílio Linares",
+        "numero": "19602-186",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Walter Haddad",
+        "numero": "19602-188",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Felipe Camarão",
+        "numero": "19602-190",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Coabianco",
+        "numero": "19602-192",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19602-194",
+        "bairro": "Jardim Universitário"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19602-230",
+        "bairro": "Residencial Portal Village"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Dom Pedro II",
+        "numero": "19602-240",
+        "bairro": "Chácaras Vale do Sol"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro Machado de Góes",
+        "numero": "19605-000",
+        "bairro": "ETEC Deputado Francisco Franco"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Gargantini",
+        "numero": "19605-040",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Nicola Rossi",
+        "numero": "19605-042",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Rosendo Fraga",
+        "numero": "19605-044",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Josias Borges do Amaral",
+        "numero": "19605-046",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Luiz Bacco Junior",
+        "numero": "19605-048",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Carlos de Carvalho Baptista",
+        "numero": "19605-050",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Pedro Carlos de Souza",
+        "numero": "19605-052",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Homero Severo Lins",
+        "numero": "19605-054",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paulo Paulozzi",
+        "numero": "19605-056",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Doutor Benedito Martins Barbosa",
+        "numero": "19605-058",
+        "bairro": "Jardim Europa I"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Elicio Aparecido dos Santos",
+        "numero": "19605-060",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Correia Ferreira",
+        "numero": "19605-062",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Sivirino da Silva",
+        "numero": "19605-064",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Xavier",
+        "numero": "19605-066",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alcides Bertoli",
+        "numero": "19605-068",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Tiaki Zorik",
+        "numero": "19605-070",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Antônio de Andade",
+        "numero": "19605-072",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Domingos Clemente Gretter",
+        "numero": "19605-074",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Israel Cruz de Oliveira",
+        "numero": "19605-076",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Edina Salustiano Silveira",
+        "numero": "19605-078",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Cardoso",
+        "numero": "19605-080",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Edilson de Figueiredo Cruz",
+        "numero": "19605-082",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dario Darcy Rosa",
+        "numero": "19605-084",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Comendador Pedro Ferreira Doninho",
+        "numero": "19605-086",
+        "bairro": "Residencial Doninho"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Comendador Pedro Ferreira Doninho",
+        "numero": "19605-090",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Fábio Amaral Franco",
+        "numero": "19605-092",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Palmira Andrade de Almeida",
+        "numero": "19605-094",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Casagrande",
+        "numero": "19605-096",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Lucilo Valente",
+        "numero": "19605-098",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Caetano Deganello",
+        "numero": "19605-100",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Geraldo dos Santos",
+        "numero": "19605-102",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Cândido Bastos",
+        "numero": "19605-104",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Fioravante Asperti",
+        "numero": "19605-106",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otávio Capobianco Sobrinho",
+        "numero": "19605-108",
+        "bairro": "Jardim Alvorada"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ângelo Pascotto",
+        "numero": "19605-150",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Manoel Felipe",
+        "numero": "19605-152",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Denise Brunhani Maffei",
+        "numero": "19605-154",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mário Guimarães Dias",
+        "numero": "19605-156",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dolores Dias Filetti",
+        "numero": "19605-158",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Adonias Carlos de Souza",
+        "numero": "19605-160",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Correa de Souza",
+        "numero": "19605-162",
+        "bairro": "Parque dos Pioneiros"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Adócio José da Silva",
+        "numero": "19605-170",
+        "bairro": "Jardim Europa II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Josue Vicente da Silva",
+        "numero": "19605-172",
+        "bairro": "Jardim Europa II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Estevão Aparício do Prado",
+        "numero": "19605-174",
+        "bairro": "Jardim Europa II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Figueiredo",
+        "numero": "19605-176",
+        "bairro": "Jardim Europa II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Sílvio Guimarães",
+        "numero": "19605-178",
+        "bairro": "Jardim Europa II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Oswaldo Assumpção Maffei",
+        "numero": "19605-180",
+        "bairro": "Jardim Europa II"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Josue Vicente da Silva",
+        "numero": "19605-190",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Abílio Bonato",
+        "numero": "19605-192",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Olímpio Clementino da Costa",
+        "numero": "19605-194",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Abel Ribeiro Figueiredo",
+        "numero": "19605-196",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Eugênio Cavalheiro",
+        "numero": "19605-198",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Gomes do Vale",
+        "numero": "19605-200",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Guimarães",
+        "numero": "19605-202",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Oscar Ferreira Lopes",
+        "numero": "19605-204",
+        "bairro": "Jardim Paraiso"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Bartolomeu de San Matheo",
+        "numero": "19605-210",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paulo Machado Rosa",
+        "numero": "19605-212",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Gonçalves Pinheiro",
+        "numero": "19605-214",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Abílio Bonato",
+        "numero": "19605-216",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Domênico Ermínio Baldassim",
+        "numero": "19605-218",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Bonilha de Godoy",
+        "numero": "19605-220",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro Machado de Góes",
+        "numero": "19605-222",
+        "bairro": "Conjunto Habitacional Maria Rielli Ciambelli"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro Machado de Góes",
+        "numero": "19605-230",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Geraldo Bonifácio",
+        "numero": "19605-232",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Orides Baldo",
+        "numero": "19605-234",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Santo Passianoto",
+        "numero": "19605-236",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Belim Delatorre",
+        "numero": "19605-238",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Agostinho Stefano Capato",
+        "numero": "19605-240",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Nobuo Ussami",
+        "numero": "19605-242",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Arley Brunhani",
+        "numero": "19605-244",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Manoel dos Santos",
+        "numero": "19605-246",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Delatorre",
+        "numero": "19605-248",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Prudêncio",
+        "numero": "19605-250",
+        "bairro": "Conjunto Habitacional Altino Severo Lins"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Pedro Machado de Góes",
+        "numero": "19605-260",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otávio Magurno",
+        "numero": "19605-262",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Fioravante Bonanato",
+        "numero": "19605-264",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Gumercindo Souza Melo",
+        "numero": "19605-266",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Orides Razera",
+        "numero": "19605-268",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Rodrigo Francisco de Lima",
+        "numero": "19605-270",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Hélio Bueno dos Santos",
+        "numero": "19605-272",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Emília Fiori Senteio",
+        "numero": "19605-274",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Pedro da Silva",
+        "numero": "19605-276",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Gumercindo Garcete",
+        "numero": "19605-278",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Ramiro Magurno",
+        "numero": "19605-280",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Missionário Fernando Tavares Dornell",
+        "numero": "19605-282",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Senhorinha Cavalheiro Díglio",
+        "numero": "19605-284",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Constantino Baqueta",
+        "numero": "19605-286",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Gazeta",
+        "numero": "19605-288",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ricardo Cordeiro Azevedo",
+        "numero": "19605-290",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Waldomiro Chiozzini",
+        "numero": "19605-292",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Abílio Alves Costa",
+        "numero": "19605-294",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Nogueira do Nascimento",
+        "numero": "19605-296",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Jacinto Cinto",
+        "numero": "19605-298",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mario de Freitas",
+        "numero": "19605-300",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Franciane Braz",
+        "numero": "19605-302",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Reverendo Euclides Fontes",
+        "numero": "19605-304",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Yozem Gushiken",
+        "numero": "19605-306",
+        "bairro": "Conjunto Habitacional Prefeito Paulo Paulozzi"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco de Assis Monzâni",
+        "numero": "19605-310",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio de Freitas Correa",
+        "numero": "19605-312",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Geraldo Fava",
+        "numero": "19605-314",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Marcelo Akira Yabuta",
+        "numero": "19605-316",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Humberto José Tóffoli",
+        "numero": "19605-318",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mário Marques Frade",
+        "numero": "19605-320",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Oswaldo Marrochio",
+        "numero": "19605-322",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Elias Jorge Miguel",
+        "numero": "19605-324",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Batista Pinto",
+        "numero": "19605-326",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Vicente Targa",
+        "numero": "19605-328",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisca Severo Lins Reginato",
+        "numero": "19605-330",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Ribeiro Binha",
+        "numero": "19605-332",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Roncon",
+        "numero": "19605-334",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Heliene Maria Ponciano Sampáio",
+        "numero": "19605-336",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Manoel Dias Fernandes",
+        "numero": "19605-338",
+        "bairro": "Jardim Nova Europa"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Manoel Dias Fernandes",
+        "numero": "19605-340",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Aldeni Alves dos Santos",
+        "numero": "19605-342",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Caetano Faune",
+        "numero": "19605-344",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Silveira Botelho",
+        "numero": "19605-346",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Reynaldo Paganotti",
+        "numero": "19605-348",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Araújo Valim",
+        "numero": "19605-350",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Pedro Vascelli",
+        "numero": "19605-352",
+        "bairro": "Jardim Dona Antônia Batista"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Pedro Vascelli",
+        "numero": "19605-360",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Luiz Carlos Fadel",
+        "numero": "19605-362",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paschoal Palloni",
+        "numero": "19605-364",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Araújo Valim",
+        "numero": "19605-366",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Pereira dos Santos",
+        "numero": "19605-368",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Estevão Correia",
+        "numero": "19605-370",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Caetano Faune",
+        "numero": "19605-372",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Rubens Bonanato",
+        "numero": "19605-374",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Emílio Batista Pinto",
+        "numero": "19605-376",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Aparecida Pereira",
+        "numero": "19605-378",
+        "bairro": "Residencial Santa Helena"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Jorge Custódio de Souza",
+        "numero": "19607-000",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Comendador Pedro Ferreira Doninho",
+        "numero": "19607-002",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Cristina de Lima Souza",
+        "numero": "19607-004",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Ádamo Passianoto",
+        "numero": "19607-006",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Bandeirantes",
+        "numero": "19607-008",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Rubens Ponciano",
+        "numero": "19607-010",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Brasília",
+        "numero": "19607-012",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prudente de Moraes",
+        "numero": "19607-014",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Mato Grosso",
+        "numero": "19607-016",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dona Rosária",
+        "numero": "19607-018",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Baccarin",
+        "numero": "19607-020",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Quesada Paixão",
+        "numero": "19607-022",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Bartira",
+        "numero": "19607-024",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Americo Fábris",
+        "numero": "19607-026",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alfredo James Lamers",
+        "numero": "19607-028",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Natal Carrer",
+        "numero": "19607-030",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Norberto de Paula",
+        "numero": "19607-032",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Durvalino Zaidel",
+        "numero": "19607-034",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Octacílio Soares",
+        "numero": "19607-036",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Ramires Serrano",
+        "numero": "19607-038",
+        "bairro": "Jardim Primavera"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Ramires Serrano",
+        "numero": "19607-060",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Hermenegildo José de Lima",
+        "numero": "19607-062",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Manoel Marques Moreira",
+        "numero": "19607-064",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Bartira",
+        "numero": "19607-066",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Rogério Fuzetto",
+        "numero": "19607-068",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Anésio Pereira Silva",
+        "numero": "19607-070",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Faustino das Neves",
+        "numero": "19607-072",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Aurélio Bedin",
+        "numero": "19607-074",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Prudente de Moraes",
+        "numero": "19607-076",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda Natal de Almeida Barbosa",
+        "numero": "19607-078",
+        "bairro": "Jardim Colina"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda Natal de Almeida Barbosa",
+        "numero": "19607-080",
+        "bairro": "Vila Matarazzo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda Affonso Baccarin",
+        "numero": "19607-082",
+        "bairro": "Vila Matarazzo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paraguai",
+        "numero": "19607-084",
+        "bairro": "Vila Matarazzo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde Francisco Matarazzo",
+        "numero": "19607-086",
+        "bairro": "Vila Matarazzo"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde Francisco Matarazzo",
+        "numero": "19607-100",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Itália",
+        "numero": "19607-102",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Japão",
+        "numero": "19607-104",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Espanha",
+        "numero": "19607-106",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua França",
+        "numero": "19607-108",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Osvaldo",
+        "numero": "19607-110",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Arinos",
+        "numero": "19607-112",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Octaviano Heráclio Duarte",
+        "numero": "19607-114",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Portugal",
+        "numero": "19607-116",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Brasil",
+        "numero": "19607-118",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua América",
+        "numero": "19607-120",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paraguai",
+        "numero": "19607-122",
+        "bairro": "Vila Industrial"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Paraguai",
+        "numero": "19607-130",
+        "bairro": "Parque das Nações"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Espanha",
+        "numero": "19607-132",
+        "bairro": "Parque das Nações"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Conde Francisco Matarazzo",
+        "numero": "19607-134",
+        "bairro": "Parque das Nações"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda Natal de Almeida Barbosa",
+        "numero": "19607-136",
+        "bairro": "Parque das Nações"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Miguel Inacio Briano",
+        "numero": "19607-142",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Rodrigues de Souza",
+        "numero": "19607-144",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda Natal de Almeida Barbosa",
+        "numero": "19607-146",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Alcides de Siqueira Barros",
+        "numero": "19607-148",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Cleyde Nice Chiozzini de Souza",
+        "numero": "19607-150",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Cavaleiro",
+        "numero": "19607-152",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Lusmar Dias Neves",
+        "numero": "19607-154",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antônio Enz",
+        "numero": "19607-156",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Máximo de Souza",
+        "numero": "19607-158",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda ILydio Consôni",
+        "numero": "19607-160",
+        "bairro": "Residencial Santa Anna"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Alameda ILydio Consôni",
+        "numero": "19607-200",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria das Dores Ruiz",
+        "numero": "19607-202",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Agenor Coutinho da Rocha",
+        "numero": "19607-204",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Alcides Pereira",
+        "numero": "19607-206",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim dos Santos",
+        "numero": "19607-208",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Francisco Pereira Maciel",
+        "numero": "19607-210",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua André Dzioba",
+        "numero": "19607-212",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Lígia Magnanelli Adomaitis",
+        "numero": "19607-214",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Geraldo Xavier Cinzas",
+        "numero": "19607-216",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Inácio Briano",
+        "numero": "19607-218",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Petronilo Martins de Oliveira",
+        "numero": "19607-220",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Bárbara Isabela Viana Menezes",
+        "numero": "19607-222",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Alcides de Siqueira Barros",
+        "numero": "19607-224",
+        "bairro": "Jardim Brasil"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Aurélio Carlos Pereira",
+        "numero": "19609-000",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otávio Zanardo",
+        "numero": "19609-002",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Abel Zorzeto",
+        "numero": "19609-004",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Onésio Flavio",
+        "numero": "19609-006",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Santo Bossoni",
+        "numero": "19609-008",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dario Almud",
+        "numero": "19609-010",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Chede Miguel",
+        "numero": "19609-012",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua D",
+        "numero": "19609-014",
+        "bairro": "Balneário Municipal Manoel Severo Lins Neto"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Área Rural",
+        "numero": "19614-899",
+        "bairro": "Área Rural de Rancharia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Dante Grisolia",
+        "numero": "19615-000",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Maria Benedita de Jesus",
+        "numero": "19615-002",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antonio Moreira da Silva",
+        "numero": "19615-004",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Perez dos Santos",
+        "numero": "19615-006",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Antonio Moreira",
+        "numero": "19615-008",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Silveira Botelho",
+        "numero": "19615-010",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Nicolau Gimenez Ruiz",
+        "numero": "19615-012",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida Floresta",
+        "numero": "19615-014",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Wemer Hatt",
+        "numero": "19615-016",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Amaro dos Reis",
+        "numero": "19615-018",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua João Cruz de Oliveira",
+        "numero": "19615-020",
+        "bairro": "Centro (Agissê)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Área Rural",
+        "numero": "19617-899",
+        "bairro": "Área Rural de Agissê"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Estrada Municipal RHR-155",
+        "numero": "19618-000",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Roque Polimeno",
+        "numero": "19618-002",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Salvador Fusco",
+        "numero": "19618-004",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Avenida João Francisco Grillo",
+        "numero": "19618-006",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Manoel Bernardo Barbosa",
+        "numero": "19618-008",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Joaquim Carlos de Souza",
+        "numero": "19618-010",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Carmina de Lima Ribeiro",
+        "numero": "19618-012",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Rodrigues Moreira",
+        "numero": "19618-014",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Jucelina Antonia Muricci",
+        "numero": "19618-016",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Otacilio Danelon",
+        "numero": "19618-018",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Menezes da Silva",
+        "numero": "19618-020",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua José Bernardo Barbosa",
+        "numero": "19618-022",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Rua Samuel Rodrigues da Silva",
+        "numero": "19618-024",
+        "bairro": "Centro (Gardênia)"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Área Rural",
+        "numero": "19619-899",
+        "bairro": "Área Rural de Gardênia"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "José Caetano Grilo",
+        "bairro": "Vila Guaçu"
+    },
+    {
+        "cidade": "Rancharia",
+        "rua": "Vila Matarazzo",
+        "bairro": "Vila Matarazzo"
+    }
+
+]
