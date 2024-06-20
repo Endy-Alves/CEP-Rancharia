@@ -37,22 +37,26 @@ function renderizarLogradouros(logradouros) {
     });
 }
 
-// Evento de input para a pesquisa
+ // Evento de input para a pesquisa
 inputPesquisa.addEventListener('input', () => {
-    const termoPesquisa = inputPesquisa.value.trim().toLowerCase();
+  const termoPesquisa = inputPesquisa.value.trim().toLowerCase();
 
-    // Filtra os logradouros com base no termo de pesquisa
-    const logradourosFiltrados = data.filter(logradouro =>
-        logradouro.rua.toLowerCase().includes(termoPesquisa) ||
-        logradouro.bairro.toLowerCase().includes(termoPesquisa)
-    );
+  if (termoPesquisa === '') {
+  // Se o campo de pesquisa estiver vazio, limpa o conteúdo do main
+  main.innerHTML = '';
+  return; // Retorna para interromper a execução sem renderizar nada
+}
 
-    // Renderiza os logradouros filtrados
-    renderizarLogradouros(logradourosFiltrados);
+  // Filtra os logradouros com base no termo de pesquisa
+  const logradourosFiltrados = data.filter(logradouro =>
+      logradouro.rua.toLowerCase().includes(termoPesquisa) ||
+      logradouro.bairro.toLowerCase().includes(termoPesquisa)
+  );
+
+  // Renderiza os logradouros filtrados
+  renderizarLogradouros(logradourosFiltrados);
 });
 
-// Renderiza todos os logradouros inicialmente
-renderizarLogradouros(data);
 })
   .catch(error => {
     console.error('Erro durante a requisição', error);

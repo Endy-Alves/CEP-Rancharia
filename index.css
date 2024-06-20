@@ -51,12 +51,11 @@ h1{
     border-style: none;
     border-bottom: 1px solid #2dd586;
     font-size: 30px;
-    border: 2px solid green;
 }
 .pesquisa input:focus{
     outline: none;
     border-style: none;
-    border: 2px solid green;
+    border-bottom: 2px solid #2dd586;
 }
 .logradouro{
     display: flex;
