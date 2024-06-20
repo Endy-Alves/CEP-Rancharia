@@ -37,14 +37,33 @@ function renderizarLogradouros(logradouros) {
     });
 }
 
+// Função para renderizar a imagem dentro do main
+function renderizarImagem() {
+  const imgContainer = document.createElement('div');
+  const img = document.createElement('img');
+  img.src = './30f6972f-8d6c-431c-ad19-03872058f05c.jfif'; // Substitua pelo caminho da sua imagem
+  img.style.backgroundSize = 'cover'
+  img.style.height = '20em'
+  img.style.width = '20em' 
+  img.style.filter =  "grayscale(1)"
+  img.style.marginTop = '10em'
+  imgContainer.style.display ='flex'
+  imgContainer.style.justifyContent = 'center'
+  // Limpa o conteúdo anterior do main
+  main.innerHTML = '';
+
+  // Adiciona a imagem ao main
+  imgContainer.appendChild(img);
+  main.appendChild(imgContainer);
+}
+
  // Evento de input para a pesquisa
 inputPesquisa.addEventListener('input', () => {
   const termoPesquisa = inputPesquisa.value.trim().toLowerCase();
-
   if (termoPesquisa === '') {
-  // Se o campo de pesquisa estiver vazio, limpa o conteúdo do main
-  main.innerHTML = '';
-  return; // Retorna para interromper a execução sem renderizar nada
+    main.innerHTML = '';
+    renderizarImagem()
+    return; // Retorna para interromper a execução sem renderizar nada
 }
 
   // Filtra os logradouros com base no termo de pesquisa
@@ -56,6 +75,7 @@ inputPesquisa.addEventListener('input', () => {
   // Renderiza os logradouros filtrados
   renderizarLogradouros(logradourosFiltrados);
 });
+
 
 })
   .catch(error => {
