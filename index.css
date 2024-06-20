@@ -76,5 +76,6 @@ h1{
     }
     .pesquisa input{
         font-size: 20px;
+        height: 2em;
     }
 }
