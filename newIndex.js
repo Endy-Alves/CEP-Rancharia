@@ -38,22 +38,46 @@ function renderizarLogradouros(logradouros) {
     });
 }
 
-// Evento de input para a pesquisa
+// Função para renderizar a imagem dentro do main
+function renderizarImagem() {
+  const imgContainer = document.createElement('div');
+  const img = document.createElement('img');
+  img.src = './30f6972f-8d6c-431c-ad19-03872058f05c.jfif'; // Substitua pelo caminho da sua imagem
+  img.style.backgroundSize = 'cover'
+  img.style.height = '20em'
+  img.style.width = '20em' 
+  img.style.filter =  "grayscale(1)"
+  img.style.marginTop = '10em'
+  imgContainer.style.display ='flex'
+  imgContainer.style.justifyContent = 'center'
+  // Limpa o conteúdo anterior do main
+  main.innerHTML = '';
+
+  // Adiciona a imagem ao main
+  imgContainer.appendChild(img);
+  main.appendChild(imgContainer);
+}
+
+ // Evento de input para a pesquisa
 inputPesquisa.addEventListener('input', () => {
-    const termoPesquisa = inputPesquisa.value.trim().toLowerCase();
+  const termoPesquisa = inputPesquisa.value.trim().toLowerCase();
+  if (termoPesquisa === '') {
+    main.innerHTML = '';
+    renderizarImagem()
+    return; // Retorna para interromper a execução sem renderizar nada
+}
 
-    // Filtra os logradouros com base no termo de pesquisa
-    const logradourosFiltrados = data.filter(logradouro =>
-        logradouro.rua.toLowerCase().includes(termoPesquisa) ||
-        logradouro.bairro.toLowerCase().includes(termoPesquisa)
-    );
+  // Filtra os logradouros com base no termo de pesquisa
+  const logradourosFiltrados = data.filter(logradouro =>
+      logradouro.rua.toLowerCase().includes(termoPesquisa) ||
+      logradouro.bairro.toLowerCase().includes(termoPesquisa)
+  );
 
-    // Renderiza os logradouros filtrados
-    renderizarLogradouros(logradourosFiltrados);
+  // Renderiza os logradouros filtrados
+  renderizarLogradouros(logradourosFiltrados);
 });
 
-// Renderiza todos os logradouros inicialmente
-renderizarLogradouros(data);
+
 })
   .catch(error => {
     console.error('Erro durante a requisição', error);
