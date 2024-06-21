@@ -10,7 +10,7 @@ fetch(url)
   .then(data => {
     const main = document.getElementById('main');
 const inputPesquisa = document.getElementById('pesquisa');
-
+console.log(data)
 // Função para renderizar os logradouros na página
 function renderizarLogradouros(logradouros) {
     main.innerHTML = ''; // Limpa o conteúdo atual dentro de main
@@ -19,6 +19,7 @@ function renderizarLogradouros(logradouros) {
     logradouros.forEach(logradouro => {
         const divLogradouro = document.createElement('div');
         divLogradouro.classList.add('logradouro');
+     
 
         // Cria elementos para nome do bairro, logradouro e cep
         const nomeBairro = document.createElement('div');
