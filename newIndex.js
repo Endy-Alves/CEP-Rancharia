@@ -42,10 +42,10 @@ function renderizarLogradouros(logradouros) {
 function renderizarImagem() {
   const imgContainer = document.createElement('div');
   const img = document.createElement('img');
-  img.src = './30f6972f-8d6c-431c-ad19-03872058f05c.jfif'; // Substitua pelo caminho da sua imagem
+  img.src = './prefeitura-municipal-de-rancharia-sp.png'; // Substitua pelo caminho da sua imagem
   img.style.backgroundSize = 'cover'
   img.style.height = '20em'
-  img.style.width = '20em' 
+  img.style.width = '25em' 
   img.style.filter =  "grayscale(1)"
   img.style.marginTop = '10em'
   imgContainer.style.display ='flex'
